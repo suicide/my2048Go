@@ -1,6 +1,6 @@
 package main
 
-import "my2048/game"
+import "./game"
 
 
 func main() {
